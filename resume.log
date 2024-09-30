@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2024.9.29)  29 SEP 2024 18:09
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2024.9.29)  30 SEP 2024 00:27
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -577,10 +577,6 @@ LaTeX Info: Redefining \nameref on input line 166.
 \openout3 = `resume.out'.
 
 
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
-
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
@@ -731,6 +727,7 @@ ript=latn;language=dflt;letterspace=32.0;+smcp;mapping=tex-text;"
 
 LaTeX Font Info:    Font shape `TU/Montserrat(3)/m/n' will be
 (Font)              scaled to size 7.0pt on input line 171.
+
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg)
 
 Package fontspec Info: Font family 'Montserrat(4)' created for font
@@ -983,15 +980,12 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.95pt have occurred.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 311.
  ) 
 Here is how much of TeX's memory you used:
  14562 strings out of 479819
  283534 string characters out of 5895831
- 670699 words of memory out of 5000000
+ 670894 words of memory out of 5000000
  31461 multiletter control sequences out of 15000+600000
  535957 words of font info for 99 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
